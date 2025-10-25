@@ -872,7 +872,7 @@ nav .boxq a img {
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 950px) {
   nav {
     margin: 24px 20px;
   }
